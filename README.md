@@ -28,7 +28,7 @@ CarbonGPT is an API-driven system that answers queries about carbon emissions us
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/carbongpt.git
+   git clone https://github.com/armutie/carbongpt.git
    cd carbongpt
    ```
 2. Install dependencies:
