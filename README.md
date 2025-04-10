@@ -61,11 +61,10 @@ CarbonGPT is an API-driven system that answers queries about carbon emissions us
 ### Endpoint: `/query`
 
 - Method: POST
-- Request Body: JSON with a `query` field (string).
+- Request Body: URL parameter with a `query` field (string).
 - Example Request:
-   ```json
    {"query": "How much CO2 does a car emit?"}
-   ```
+
 - Responses:
   - Success (200):
     ```json
